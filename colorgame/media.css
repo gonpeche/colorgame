@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 100%;
+    padding: 15px
+  }
+
+  div.consola {
+    font-size: 70%;
+  }
+
+  .contenedor {
+    margin: 0;
+  }
+
+  div.square {
+    width: 28%;
+  }
+}
